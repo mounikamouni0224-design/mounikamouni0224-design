@@ -1,6 +1,9 @@
+# Hi there, I'm Mounika! 👋
 
-### Hi there 👋
+Welcome to my GitHub profile! I am a passionate developer currently focusing on:
 
-<p align="center">
-  <img src="https://lecoq.io" alt="Mounika's GitHub Stats" width="100%" />
-</p>
+- 💻 **Backend Development** with Node.js
+- ☕ **Object-Oriented Programming** with Java
+- 🌐 **Web Technologies** (HTML, JavaScript)
+
+Feel free to explore my repositories!
